@@ -57,7 +57,7 @@ Phase Timeline and Status (always sync up to-date )
 ### ✅ Fixed Header
 
 - [ ] Logo/branding component
-- [ ] YouTube-style search bar
+- [ ] Search bar
 - [ ] PWA install button
 - [ ] Navigation menu
 - [ ] User profile/settings access
@@ -66,21 +66,13 @@ Phase Timeline and Status (always sync up to-date )
 
 - [ ] Implement min-full height with fixed header/footer
 - [ ] Create responsive grid layouts
-- [ ] Implement horizontal scroll containers
 - [ ] Add loading states for content sections
 - [ ] Create empty states for no content
 
-### ✅ Fixed Footer Player (MacBook-like Dock)
+### ✅ Footer (Optional)
 
-- [ ] **Top Row:**
-  - [ ] Real-time progress bar
-  - [ ] Start time display (left)
-  - [ ] End time display (right)
-- [ ] **Bottom Row:**
-  - [ ] Current song info (left): title, artist, album art
-  - [ ] Playback controls (center): prev, play/pause, next
-  - [ ] Time skip controls: forward/backward 10s
-  - [ ] Mute toggle (right)
+- [ ] Quick add todo
+- [ ] Bulk actions
 
 ## 📝 Core Todo Features
 
