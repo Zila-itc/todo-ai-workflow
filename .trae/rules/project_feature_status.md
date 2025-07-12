@@ -1,7 +1,7 @@
 
 Todo List App - Development Checklist (DB-less Architecture)
 
-Phase Timeline and Status (always sync up to-date )
+Phase Timeline and Status (always sync up-to-date)
 
 ### Phase 1: Core Setup
 
@@ -19,7 +19,8 @@ Phase Timeline and Status (always sync up to-date )
 - [ ] Install TanStack form
 - [ ] Set up Jest + React Testing Library
 - [ ] Configure ESLint, Commitlint, Lint-staged, Husky
-- [ ] add gitingore related files
+- [ ] Add .gitignore related files
+- [ ] Create simple .env.example
 
 ### PWA Configuration
 

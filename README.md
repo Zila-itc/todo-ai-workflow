@@ -1,8 +1,18 @@
-# Todo List App (DB-less Architecture)
+# AI Agent Workflow Todo-list sample
+
+eg. copy for agent and start, you also can create agent profile in trae ai for bellow prompt or manually copy bellow
+
+```md
+Start implement feature on phase1 in rules/workflow_development.md and rules/project_feature_status.md include coding, testing, verify Done base on 7. Definition of DONE see more in rules/workflow_development.md
+```
+
+see more sample prompt for agent in /workflows-template/dev_workflow_guild.md
+
+## Todo List App (DB-less Architecture)
 
 A modern, offline-first Todo List application built with Next.js 15, TypeScript, Tailwind CSS, Zustand, and IndexedDB. Designed for high performance, accessibility, and a beautiful user experience.
 
-## Features
+### Features
 
 - Add, edit, delete, and complete todo items
 - Due dates, reminders, priorities, categories/tags
@@ -17,7 +27,7 @@ A modern, offline-first Todo List application built with Next.js 15, TypeScript,
 - Testing with Jest and React Testing Library
 - Modern DevOps: ESLint, Commitlint, Husky, lint-staged
 
-## Project Structure
+### Project Structure
 
 ```
 src/
@@ -42,7 +52,7 @@ src/
 public/               # Static assets
 ```
 
-## Getting Started
+### Getting Started
 
 1. **Install dependencies:**
 

@@ -1,5 +1,14 @@
 # Development Workflow Guide
 
+here is just quick access to copy for agent you can copy any block to agent will process
+
+AI Agent Workflow
+eg. copy for agent and start, you also can create agent profile in trae ai for bellow prompt or manually copy bellow
+
+```md
+Start implement feature on phase1 in rules/workflow_development.md and rules/project_feature_status.md include coding, testing, verify Done base on 7. Definition of DONE see more in rules/workflow_development.md
+```
+
 ## Workflow Template
 
 we can create template workflow in workflow eg. table_crud_workflow.md
@@ -8,10 +17,6 @@ we can create template workflow in workflow eg. table_crud_workflow.md
 
 1. Drag tasks todo_plan_workflow.md into AI Agent chat
 2. Attach image or upload to chat
-
-## Agent builder tools
-
-- <https://code.visualstudio.com/docs/intelligentapps/overview>
 
 ## Start Task
 
@@ -22,3 +27,7 @@ please start working implement Music web app HiFi Flow  coding on ## 8. Phase Ti
 please start working implement and verify process step by step must refer to this guide. rules/dev_workflow_guild.md
 you need to test from step ### Test to ### status
 quick recap you need to verify by action like run terminal scrip or script in package.json
+
+## Agent builder tools
+
+- <https://code.visualstudio.com/docs/intelligentapps/overview>
