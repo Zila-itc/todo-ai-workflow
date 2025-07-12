@@ -152,6 +152,7 @@ Quick recap: you need to verify by action like run terminal script or script in 
 ### Status
 
 - Confirm code is up-to-date with project rules, status, and local plans.
+- [ ] Create Next.js 15 project so if one will be  [x] Create Next.js 15 project;
 
 -----
 
