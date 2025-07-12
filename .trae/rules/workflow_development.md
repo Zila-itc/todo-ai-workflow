@@ -56,15 +56,8 @@ This document outlines the main workflow phases:
     │   └── page.tsx     # Route: /about
     ├── [feature]/       # Dynamic route: /:feature
     │   └── page.tsx
-    ├── layout.tsx       # Shared layout for all routes
-    ├── api/
-    │   └── hello/route.ts # API route: /api/hello
-    └── ...              # Add more folders for more routes
-  src/store
-  src/utils/   # Utility functions, helpers, shared logic
-  src/service
-  src/feature-name/
-    |-- feature_name.md # Temp plan, moves to any-agent/rules/tasks/feature_name.plan.d on completion
+    ├── feature-name/
+    |-- feature_name.md #  plan feature here will have status and sync with rules/project_feature_status.md
     ├── types.ts           # TypeScript type definitions
     ├── services.ts        # Business logic & API calls (data normalization)
     ├── useFeature.ts      # Custom hook for React logic (handleClick, ref, Zustand connection)
@@ -72,6 +65,13 @@ This document outlines the main workflow phases:
         ├── Component1.tsx
         ├── Component2.tsx
         └── Component3.tsx
+    ├── layout.tsx       # Shared layout for all routes
+    ├── api/
+    │   └── hello/route.ts # API route: /api/hello
+    └── ...              # Add more folders for more routes
+  src/store # zunstand store
+  src/utils/   # Utility functions, helpers, shared logic
+  src/service # 
   
   # Notes:
   # - Use 'page.tsx' for each route in 'app/'.
