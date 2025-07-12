@@ -2,11 +2,12 @@
 
 here is just quick access to copy for agent you can copy any block to agent will process
 
-AI Agent Workflow
+## AI Agent Workflow
+
 eg. copy for agent and start, you also can create agent profile in trae ai for bellow prompt or manually copy bellow
 
 ```md
-Start implement feature on phase1 in rules/workflow_development.md and rules/project_feature_status.md include coding, testing, verify Done base on 7. Definition of DONE see more in rules/workflow_development.md
+Start implement feature on all phase in rules/workflow_development.md and rules/project_feature_status.md include coding, testing, verify Done base on 7. Definition of DONE see more in rules/workflow_development.md
 ```
 
 ## Workflow Template
