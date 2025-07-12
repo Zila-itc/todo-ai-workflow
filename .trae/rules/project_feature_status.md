@@ -1,10 +1,3 @@
-You're absolutely right! My apologies for that oversight. The "Implement audio file caching strategy" item was a leftover from the music app checklist and is **irrelevant** for a todo list application.
-
-I've reviewed the entire checklist again and ensured that all audio-related references have been removed.
-
-Here's the corrected and refined checklist, with the audio caching strategy item removed:
-
----
 
 ## Todo List App - Development Checklist (DB-less Architecture)
 
@@ -22,7 +15,8 @@ Here's the corrected and refined checklist, with the audio caching strategy item
 
 - [ ] Create Next.js 15 project with TypeScript
 - [ ] Configure Tailwind CSS 4 with custom design system
-- [ ] Set up PWA with @serwist/next
+- [ ] Set up PWA with @serwist/next if have typescript issue use declare const self: ServiceWorkerGlobalScope;
+
 - [ ] Install and configure Lucide React icons
 - [ ] Set up TanStack Query for data fetching
 - [ ] Configure Zustand for state management
@@ -320,5 +314,3 @@ Here's the corrected and refined checklist, with the audio caching strategy item
 - [ ] API mock generation
 - [ ] Postman collection export
 - [ ] Testing examples and guides
-
----
