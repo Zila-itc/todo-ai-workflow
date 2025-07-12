@@ -65,6 +65,8 @@ src/app/   # Next.js 15 App Router: all routes/pages/layouts live here
   ├── page.tsx          # Main route: /
   ├── about/
   │   └── page.tsx      # Route: /about
+  │   ├── page.test.tsx
+
   ├── [feature]/        # Dynamic route: /:feature
   │   └── page.tsx
   ├── feature-name/
@@ -74,8 +76,8 @@ src/app/   # Next.js 15 App Router: all routes/pages/layouts live here
   ├── useFeature.ts      # Custom hook for React logic (handleClick, ref, Zustand connection)
   └── components/
   │   ├── Component1.tsx
-  │   ├── Component2.tsx
-  │   └── Component3.tsx
+  │   ├── Component1.test.tsx
+  │   ├── Component2.test.tsx
   ├── layout.tsx         # Shared layout for all routes
   ├── api/
   │   └── hello/route.ts # API route: /api/hello
@@ -117,7 +119,7 @@ const mockData = { amount: 100, currency: 'USD', total: 200 }
 
 ### Testing
 
-- Write unit tests, perform manual testing, check responsiveness & cross-browser compatibility.
+- Write unit tests, for all case 100% coverage is prefer for close to file eg. /page/a/index.tsx. so index.test.tsx check responsiveness & cross-browser compatibility.
 
 -----
 
