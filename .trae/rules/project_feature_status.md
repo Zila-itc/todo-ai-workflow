@@ -14,7 +14,7 @@
 ### Initial Setup
 
 - [ ] Create Next.js 15 project with TypeScript
-- [ ] Configure Tailwind CSS 4 with custom design system
+- [ ] Configure Tailwind CSS 4 with custom design system,  see doc <https://tailwindcss.com/blog/tailwindcss-v4>
 - [ ] Set up PWA with @serwist/next if have typescript issue use declare const self: ServiceWorkerGlobalScope;
 
 - [ ] Install and configure Lucide React icons
